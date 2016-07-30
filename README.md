@@ -1,2 +1,4 @@
 # hello-world
-Test ediyorum repository yartaıyorum
+Test ediyorum repository yaratıyorum.
+Version 0.1
+Bakalım neler olacak...
